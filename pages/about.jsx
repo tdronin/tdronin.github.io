@@ -67,7 +67,7 @@ export default function About() {
             From my humble beginnings growing up in El Paso, Texas, to attending the United States Military Academy at West
  Point and serving as an Infantry and Special Operations Officer in the US Army, the core
  values of duty, honesty, and hard work have been deeply ingrained in me.
- Having led teams in complex and challenging environments, I'm confident I can
+ Having led teams in complex and challenging environments, I&apos;m confident I can
  use my military training and experience to continue to grow a small business with
  a history of excellence and a thriving culture. 
             </p>
