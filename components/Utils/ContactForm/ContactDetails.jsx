@@ -16,7 +16,7 @@ export default function ContactDetails() {
                 className="flex-shrink-0 h-6 w-6 text-gray-400 dark:text-gray-300"
                 aria-hidden="true"
               />
-              <p className="ml-3">Region, Country</p>
+              <p className="ml-3">North Carolina, USA</p>
             </dd>
           </div>
           <div className="mt-3">
@@ -26,7 +26,7 @@ export default function ContactDetails() {
                 className="flex-shrink-0 h-6 w-6 text-gray-400 dark:text-gray-300"
                 aria-hidden="true"
               />
-              <span className="ml-3">hello@example.com</span>
+              <span className="ml-3">tommy@lunect.com</span>
             </dd>
           </div>
         </dl>
