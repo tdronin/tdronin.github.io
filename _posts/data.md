@@ -1,6 +1,6 @@
 ---
 title: 'Automation is the New Business Oil'
-excerpt: 'There are hundreds of different ways to make your business exceptional but automation may outdue them all'
+excerpt: 'There are hundreds of different ways to make your business exceptional but automation may out do them all in terms of ROI'
 coverImage: '/assets/blog/a-nextjs-blog-starter-you-actually-want-to-use/tree-minimal.jpg'
 date: '2024-06-23T05:35:07.322Z'
 author:
