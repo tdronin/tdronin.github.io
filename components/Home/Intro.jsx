@@ -80,7 +80,7 @@ export default function Intro() {
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
       <div className="md:w-1/2">
         <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tighter leading-tight md:pr-8 mb-4">
-          Lunect Holdings.
+          Lunect Holdings
         </h1>
         <p className="text-center md:text-left text-lg mb-4">
         <h2 className="text-2xl font-bold mb-2">ON A MISSION</h2>
