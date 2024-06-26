@@ -16,13 +16,7 @@ const App = ({ Component, pageProps }) => {
       router.events.off('routeChangeComplete', handleRouteChange)
     }
   }, [router.events])
-  // return <Component {...pageProps} />
-  return (
-  <>
-  <Component {...pageProps} />
-  <Analytics />
-  </>
-  );
+  return <Component {...pageProps} />
 }
 
 export default App
