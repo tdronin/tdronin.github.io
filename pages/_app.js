@@ -26,3 +26,4 @@ const App = ({ Component, pageProps }) => {
 }
 
 export default App
+// updated analytics for website
