@@ -7,7 +7,7 @@ import PageHeading from "../components/PageHeading";
 
 const Announcement = () => {
   // Prefilled JotForm URL
-  const jotFormUrl = "https://form.jotform.com/250176064158153/prefill/678c408c303361bd72a3d945f657";
+  const jotFormUrl = "https://form.jotform.com/250177928537164/prefill/678c5abe353763441f6a35f2c965";
 
   return (
     <Layout>
