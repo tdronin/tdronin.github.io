@@ -14,12 +14,9 @@ const navigation = [
   {
     name: 'Contact',
     href: '/contact',
-  },
-  {
-    name: 'Announcement',
-    href: '/announcement',
   }
 ]
+
 
 export default function Nav({ darkMode, setDarkMode }) {
   const router = useRouter()
